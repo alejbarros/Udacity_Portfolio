@@ -16,4 +16,3 @@ This project is to show responsive design. technologies used BootStrap, HTML5 an
 * Clone repository
 * From command line type : git clone https://github.com/alejbarros/Udacity_Portfolio.git
 * Navigate to where you clone the repository.
-* Double-click index.html to open the game in your browser.
